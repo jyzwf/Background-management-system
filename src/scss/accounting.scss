@@ -1,0 +1,24 @@
+@import "img-size";
+@import "margin";
+ul{
+	    list-style: none;
+	    padding:0;
+	    margin:0
+}
+
+li{
+	margin:0;
+}
+
+texterea{
+	resize:none
+}
+
+a:hover{
+	text-decoration:none;
+	cursor: pointer;
+}
+
+.cursorPointer{
+	cursor:pointer;
+}
